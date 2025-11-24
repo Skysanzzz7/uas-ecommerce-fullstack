@@ -1,0 +1,5 @@
+/* stylelint-disable at-rule-no-unknown */
+/* The three Tailwind directives below are processed by PostCSS/Tailwind, disable linting for unknown at-rule */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
